@@ -1,10 +1,10 @@
 ### Hi there 
 
-I am Rishul Gulati, currently working as an Android Developer at the [Josh Software](https://joshsoftware.com/). I like solving real-world problems by creating scalable and high-performance Android apps since 3.9 years.
+I am Rishul Gulati, currently working as an Android Developer at the [Josh Software](https://joshsoftware.com/). I like solving real-world problems by creating scalable and high-performance Android apps since 3.9 years.Looking to collaborate for anything related to Android development.
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rishul-gulati-91a76212a/)](https://www.linkedin.com/in/rishul-gulati-91a76212a/)
+[![Linkedin Badge](https://img.shields.io/badge/rishul_gulati-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rishul-gulati-91a76212a/)](https://www.linkedin.com/in/rishul-gulati-91a76212a/)
+[![Gmail Badge](https://img.shields.io/badge/rishul10@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rishul10@gmail.com)](mailto:rishul10@gmail.com)
 
-![Gmail](https://img.shields.io/badge/rishul10@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:rishul10@gmail.com)]((mailto:rishul10@gmail.com))
 
 ## ⚡ Technologies
 
