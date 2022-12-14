@@ -1,4 +1,4 @@
-### Hi there 
+### Hi there 👋
 
 I am Rishul Gulati, currently working as an Android Developer at the [Josh Software](https://joshsoftware.com/). I like solving real-world problems by creating scalable and high-performance Android apps since 3.9 years.Looking to collaborate for anything related to Android development.
 
