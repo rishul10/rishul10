@@ -18,6 +18,5 @@ I am Rishul Gulati, currently working as an Android Developer at the [Josh Softw
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishul10&hide=TeX&layout=compact)
 
 
